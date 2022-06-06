@@ -13,5 +13,3 @@ inputImg.addEventListener('change', (e) => {
 
     document.querySelector('.preview').appendChild(img)
 })
-
-// document.querySelector('.preview').appendChild(img)
